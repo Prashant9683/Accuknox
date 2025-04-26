@@ -1,7 +1,7 @@
 # Accuknox
 
 - Django Signals
-- [Custom Classes](https://github.com/Prashant9683/Accuknox/blob/main/Custom%20Classes)
+- [Custom Classes](https://github.com//Accuknox/blob/main/Custom%20Classes)
 
 ## Django Signals
 
